@@ -8,6 +8,10 @@ Inspired by [SwitchPresence](https://github.com/Sun-Research-University/SwitchPr
 
 Works with PSVita & Adrenaline (including custom bubbles) games/apps
 
+## Fix
+- There was a "bug" where you would be stopped by the character limit for the Client ID this fork fixes that
+- also updated .NET 
+
 ## Disclaimer
 The client app (on Windows PC) must be running in the background, and the PC must be on the same network as your Vita.
 
@@ -20,3 +24,4 @@ It would be nice to have rich presence working with only the Vita itself, but th
 
 ## Credits
 - [Sun-Research-University](https://github.com/Sun-Research-University) for the idea & desktop app codebase
+
