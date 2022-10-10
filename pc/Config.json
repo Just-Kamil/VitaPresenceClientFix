@@ -1,0 +1,11 @@
+{
+  "IP": "",
+  "Client": "",
+  "State": "",
+  "UpdateInterval": "10",
+  "DisplayTimer": true,
+  "AllowTray": false,
+  "DisplayMainMenu": true,
+  "SeenAutoMacPrompt": false,
+  "AutoToMac": false
+}
